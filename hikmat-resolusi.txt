@@ -1,3 +1,6 @@
 saya mulai belajar untuk menjadi web developer
 bergabung dan memulai arahan dari kang hendi
 membuat web pembelajaran sekolah
+membuat program layanan perpustakaan
+membuat program database anggota perpustakaan
+membuat database buku perpustakaan
